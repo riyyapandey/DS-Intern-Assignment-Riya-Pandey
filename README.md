@@ -54,12 +54,12 @@ Cleaned dataset reduced but higher integrity
 
 All features normalized and encoded appropriately for model input
 
-🤖 5. Model Performance
+5. Model Performance
 You trained a regression model (possibly RandomForest/XGBoost), and achieved:
 
-Dataset	R² Score (Accuracy)	RMSE (Approx.)
-Train Set	95% (0.95)	~5.3
-Test Set	91% (0.91)	~6.7
+Dataset        	R² Score (Accuracy)	           RMSE (Approx.)
+Train Set       	 95% (0.95)	                   ~5.3
+Test Set	         91% (0.91)	                    ~6.7
 
 Excellent performance — minimal overfitting and good generalization
 Indicates reliable predictions on unseen energy consumption patterns.
